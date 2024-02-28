@@ -1,16 +1,7 @@
-# vasilueva_mobile_shop
+# Васильева Софья
 
-A new Flutter project.
+## Магазин мобильной техники с авторизацией
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="650" alt="Снимок экрана 2024-02-28 в 14 31 10" src="https://github.com/SofiyaVasileva/flatter_lesson_mob_shop/assets/91559612/884adf55-9e6d-4485-9ae3-eeed936c05c9">
+<img width="647" alt="Снимок экрана 2024-02-28 в 14 31 32" src="https://github.com/SofiyaVasileva/flatter_lesson_mob_shop/assets/91559612/5279604e-55a2-42b0-8b99-fe66175c93b2">
+<img width="643" alt="Снимок экрана 2024-02-28 в 14 31 58" src="https://github.com/SofiyaVasileva/flatter_lesson_mob_shop/assets/91559612/3789c59a-8bdf-4fcf-974b-cc4d5b79a5c8">
